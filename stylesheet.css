@@ -1552,7 +1552,7 @@ o @keyframes bannar_come {
   background-color: rgba(0,0,0,0.6);
 }
 
-.footer{
+/* .footer{
   width: 100%;
   height: 35px;
   text-align:center;
@@ -1561,7 +1561,7 @@ o @keyframes bannar_come {
   font-size: 25px;
   font-style: italic;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-} 
+}  */
 
 .btn-primary {
   border-color: #FFEFD5;
