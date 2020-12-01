@@ -1298,7 +1298,7 @@ o @keyframes bannar_come {
 .balloons {
   position: fixed;
   bottom: -200px;
-  opacity: 0.6;
+  opacity: 0.7;
   z-index: 99;
   width: 120px;
   height: 203px;
